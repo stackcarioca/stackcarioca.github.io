@@ -16,4 +16,4 @@ lugar.
 
 Se você tem ou sabe de alguém que tenha um projeto Python com ligações com o
 Rio de Janeiro, crie uma issue ou envie um pull request para o nosso
-[repositório](https://github.com/eduardostalinho/stackcarioca).
+[repositório](https://github.com/stackcarioca/stackcarioca).
