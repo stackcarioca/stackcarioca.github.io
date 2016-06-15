@@ -1,0 +1,10 @@
+#!/home/eduardo/workspace/stackcarioca/env/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'doit==0.29.0','console_scripts','doit'
+__requires__ = 'doit==0.29.0'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('doit==0.29.0', 'console_scripts', 'doit')()
+    )

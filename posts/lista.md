@@ -1,0 +1,58 @@
+.. title: A Lista
+.. slug: lista
+.. date: 2016-06-12 17:38:56 UTC
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+Aqui estão os projetos python feitos por pessoas da comunidade Python do Rio de
+Janeiro. Venha contribuir!
+
+- [cloudoo](https://github.com/nexedi/cloudooo) Servidor de conversão de
+  documentos XML-RPC
+
+- [coopy](https://github.com/felipecruz/coopy) Biblioteca simples, transparente
+  e não intrusiva para persistência de objetos python.
+
+- [feedbloom](https://github.com/eduardostalinho/feedbloom) Leitor de feeds
+  baseado em tarjas de canais de notícias.
+
+- [fixofx](https://github.com/henriquebastos/fixofx) Utilizatário python para
+  arquivos de dados fincanceiros.
+
+- [django-aggregate-if](https://github.com/henriquebastos/django-aggregate-if)
+  Agregações condicionais na queries Django.
+
+- [django-test-without-migrations](https://github.com/henriquebastos/django-test-without-migrations)
+  Rode testes do django sem necessidade de rodar migrações.
+
+- [jsonbender](https://github.com/Onyo/jsonbender) DSL embarcada para
+  transformação de dicionários.
+
+- [model-mommy](https://github.com/vandersonmota/model_mommy) Factory de
+  objetos para django.
+
+- [nose-ipdb](https://github.com/flavioamieiro/nose-ipdb) Rode testes com ponto
+  de paradas do ipdb ao invés de pdb.
+
+- [pypln-web](https://github.com/NAMD/pypln.web) e
+  [pypln-backend](https://github.com/NAMD/pypln.backend) Pipeline distribuída
+para processamento de linguagem natural.
+
+- [python-decouple](https://github.com/henriquebastos/python-decouple)
+  Ferramenta para organizar configurações de projeto.
+
+- [rows](https://github.com/turicas/rows) Uma interface comum e bonita para
+  dados tabulares em vários formatos.
+
+- [splinter](https://github.com/cobrateam/splinter) Ferramenta para testar
+  aplicações web com busca fácil por elementos, form actions e outras ações do
+browser.
+
+- [sqlformatter](https://github.com/henriquebastos/sqlformatter) Formatação de
+  *statements* SQL com cores.
+
+- [tenjinserver](https://github.com/henriquebastos/tenjinserver) Ferramenta
+  para facilitar a criação de templates *tenjin*
