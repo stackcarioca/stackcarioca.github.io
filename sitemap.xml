@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://stackcarioca.github.io/2016/index.html</loc>
-  <lastmod>2016-06-15T18:07:00Z</lastmod>
+  <lastmod>2016-06-15T18:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://stackcarioca.github.io/archive.html</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://stackcarioca.github.io/categories/cat_sobre.html</loc>
-  <lastmod>2016-06-15T18:07:00Z</lastmod>
+  <lastmod>2016-06-15T18:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://stackcarioca.github.io/categories/index.html</loc>
@@ -23,19 +23,19 @@
  </url>
  <url>
   <loc>https://stackcarioca.github.io/categories/python.html</loc>
-  <lastmod>2016-06-15T18:07:00Z</lastmod>
+  <lastmod>2016-06-15T18:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://stackcarioca.github.io/categories/rio-de-janeiro.html</loc>
-  <lastmod>2016-06-15T18:07:00Z</lastmod>
+  <lastmod>2016-06-15T18:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://stackcarioca.github.io/categories/rj.html</loc>
-  <lastmod>2016-06-15T18:07:00Z</lastmod>
+  <lastmod>2016-06-15T18:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://stackcarioca.github.io/categories/sobre.html</loc>
-  <lastmod>2016-06-15T18:07:00Z</lastmod>
+  <lastmod>2016-06-15T18:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://stackcarioca.github.io/galleries/index.html</loc>
@@ -43,7 +43,7 @@
  </url>
  <url>
   <loc>https://stackcarioca.github.io/index.html</loc>
-  <lastmod>2016-06-15T18:07:00Z</lastmod>
+  <lastmod>2016-06-15T18:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://stackcarioca.github.io/listings/index.html</loc>
@@ -55,6 +55,6 @@
  </url>
  <url>
   <loc>https://stackcarioca.github.io/posts/sobre.html</loc>
-  <lastmod>2016-06-15T18:07:00Z</lastmod>
+  <lastmod>2016-06-15T18:21:00Z</lastmod>
  </url>
 </urlset>
