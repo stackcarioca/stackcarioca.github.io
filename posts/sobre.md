@@ -8,7 +8,7 @@
 .. type: text
 
 Stack carioca é um projeto para listar ferramentas, módulos e aplicações com
-código aberto feitas em python.
+código aberto feitas por pessoas da comunidade Python do Rio de Janeiro.
 
 O objetivo desse projeto é levar mais pessoas a contribuírem com software livre
 podendo programar com pessoas que já conheça ou possa conhecer em qualquer
