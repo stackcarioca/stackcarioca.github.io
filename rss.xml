@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Stack Carioca</title><link>https://stackcarioca.github.io/</link><description>Lista de projetos Python com ligações com o Rio de Janeiro</description><atom:link rel="self" href="https://stackcarioca.github.io/rss.xml" type="application/rss+xml"></atom:link><language>pt_br</language><lastBuildDate>Wed, 15 Jun 2016 18:21:40 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Sobre</title><link>https://stackcarioca.github.io/posts/sobre.html</link><dc:creator>Eduardo Stalinho</dc:creator><description>&lt;div&gt;&lt;p&gt;Stack carioca é um projeto para listar ferramentas, módulos e aplicações com
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Stack Carioca</title><link>https://stackcarioca.github.io/</link><description>Lista de projetos Python com ligações com o Rio de Janeiro</description><atom:link rel="self" type="application/rss+xml" href="https://stackcarioca.github.io/rss.xml"></atom:link><language>pt_br</language><lastBuildDate>Wed, 15 Jun 2016 19:58:05 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Sobre</title><link>https://stackcarioca.github.io/posts/sobre.html</link><dc:creator>Eduardo Stalinho</dc:creator><description>&lt;div&gt;&lt;p&gt;Stack carioca é um projeto para listar ferramentas, módulos e aplicações com
 código aberto feitas em python.&lt;/p&gt;
 &lt;p&gt;O objetivo desse projeto é levar mais pessoas a contribuírem com software livre
 podendo programar com pessoas que já conheça ou possa conhecer em qualquer
@@ -7,7 +7,8 @@ lugar.&lt;/p&gt;
 &lt;p&gt;Se você tem ou sabe de alguém que tenha um projeto Python com ligações com o
 Rio de Janeiro, crie uma issue ou envie um pull request para o nosso
 &lt;a href="https://github.com/stackcarioca/stackcarioca.github.io"&gt;repositório&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>python</category><category>rio de janeiro</category><category>rj</category><category>sobre</category><guid>https://stackcarioca.github.io/posts/sobre.html</guid><pubDate>Mon, 13 Jun 2016 20:48:33 GMT</pubDate></item><item><title>A Lista</title><link>https://stackcarioca.github.io/posts/lista.html</link><dc:creator>Eduardo Stalinho</dc:creator><description>&lt;div&gt;&lt;p&gt;Aqui estão os projetos python feitos por pessoas da comunidade Python do Rio de
-Janeiro. Venha contribuir!&lt;/p&gt;
+Janeiro. Venha contribuir! Os nomes dos desenvolvedores desses módulos estão nos
+repositórios dos projetos.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://github.com/nexedi/cloudooo"&gt;cloudoo&lt;/a&gt; Servidor de conversão de
@@ -70,5 +71,10 @@ browser.&lt;/p&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://github.com/henriquebastos/tenjinserver"&gt;tenjinserver&lt;/a&gt; Ferramenta
   para facilitar a criação de templates &lt;em&gt;tenjin&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/lucastx/tjrj-processos"&gt;tjrj-processos&lt;/a&gt; Ferramenta de
+  linha de comando para pegar dados de processos do Tribunal de Justiça do Rio
+de Janeiro.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</description><guid>https://stackcarioca.github.io/posts/lista.html</guid><pubDate>Sun, 12 Jun 2016 17:38:56 GMT</pubDate></item></channel></rss>

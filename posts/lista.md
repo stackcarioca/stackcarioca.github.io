@@ -8,7 +8,8 @@
 .. type: text
 
 Aqui estão os projetos python feitos por pessoas da comunidade Python do Rio de
-Janeiro. Venha contribuir!
+Janeiro. Venha contribuir! Os nomes dos desenvolvedores desses módulos estão nos
+repositórios dos projetos.
 
 - [cloudoo](https://github.com/nexedi/cloudooo) Servidor de conversão de
   documentos XML-RPC
@@ -56,3 +57,7 @@ browser.
 
 - [tenjinserver](https://github.com/henriquebastos/tenjinserver) Ferramenta
   para facilitar a criação de templates *tenjin*
+
+- [tjrj-processos](https://github.com/lucastx/tjrj-processos) Ferramenta de
+  linha de comando para pegar dados de processos do Tribunal de Justiça do Rio
+de Janeiro.
