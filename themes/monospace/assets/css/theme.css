@@ -5,7 +5,7 @@ body a {color: #e1790f;}
 #footer { text-align:center; clear:both; margin:30px 0px 0px 0px; padding:30px 0px 0px 0px; border-top:1px dotted #C8C8C8; }
 #wrap { margin:0px auto; text-align:left; font-size: 13px; line-height: 1.4; }
 #container { float:right; }
-#sidebar { overflow:hidden; clear:left; text-align:right; width:250px; height:auto; padding:0px 15px 0px 0px; border-right:1px dotted #C8C8C8; }
+#sidebar { overflow:hidden; clear:left; text-align:justify; width:250px; height:auto; padding:0px 15px 0px 0px; border-right:1px dotted #C8C8C8; }
 #sidebar li { list-style-type:none; }
 #sidebar a { color: #fe001a }
 #sidebar > li { margin:20px 0px; }
