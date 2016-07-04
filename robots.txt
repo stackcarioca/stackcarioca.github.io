@@ -1,0 +1,4 @@
+Sitemap: https://stackcarioca.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: stackcarioca.github.io

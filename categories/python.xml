@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Stack Carioca (python)</title><link>https://stackcarioca.github.io/</link><description></description><atom:link href="https://stackcarioca.github.io/categories/python.xml" type="application/rss+xml" rel="self"></atom:link><language>pt_br</language><lastBuildDate>Mon, 04 Jul 2016 23:16:48 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Sobre</title><link>https://stackcarioca.github.io/posts/sobre.html</link><dc:creator>Eduardo Stalinho</dc:creator><description>&lt;div&gt;&lt;p&gt;Stack carioca é um projeto para listar ferramentas, módulos e aplicações com
+código aberto feitas por pessoas da comunidade Python do Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;O objetivo desse projeto é levar mais pessoas a contribuírem com software livre
+podendo programar com pessoas que já conheça ou possa conhecer em qualquer
+lugar.&lt;/p&gt;
+&lt;p&gt;Se você tem ou sabe de alguém que tenha um projeto Python com ligações com o
+Rio de Janeiro, crie uma issue ou envie um pull request para o nosso
+&lt;a href="https://github.com/stackcarioca/stackcarioca.github.io"&gt;repositório&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>python</category><category>rio de janeiro</category><category>rj</category><category>sobre</category><guid>https://stackcarioca.github.io/posts/sobre.html</guid><pubDate>Mon, 13 Jun 2016 20:48:33 GMT</pubDate></item></channel></rss>

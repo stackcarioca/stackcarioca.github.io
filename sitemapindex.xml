@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>https://stackcarioca.github.io/categories/cat_sobre.xml</loc>
+  <lastmod>2016-07-04T23:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stackcarioca.github.io/categories/python.xml</loc>
+  <lastmod>2016-07-04T23:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stackcarioca.github.io/categories/rio-de-janeiro.xml</loc>
+  <lastmod>2016-07-04T23:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stackcarioca.github.io/categories/rj.xml</loc>
+  <lastmod>2016-07-04T23:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stackcarioca.github.io/categories/sobre.xml</loc>
+  <lastmod>2016-07-04T23:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stackcarioca.github.io/rss.xml</loc>
+  <lastmod>2016-07-04T23:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stackcarioca.github.io/sitemap.xml</loc>
+  <lastmod>2016-07-04T23:25:00Z</lastmod>
+ </sitemap>
+</sitemapindex>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Stack Carioca</title><link>https://stackcarioca.github.io/</link><description>Lista de projetos Python com ligações com o Rio de Janeiro</description><atom:link href="https://stackcarioca.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>pt_br</language><lastBuildDate>Mon, 04 Jul 2016 23:16:48 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Sobre</title><link>https://stackcarioca.github.io/posts/sobre.html</link><dc:creator>Eduardo Stalinho</dc:creator><description>&lt;div&gt;&lt;p&gt;Stack carioca é um projeto para listar ferramentas, módulos e aplicações com
+código aberto feitas por pessoas da comunidade Python do Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;O objetivo desse projeto é levar mais pessoas a contribuírem com software livre
+podendo programar com pessoas que já conheça ou possa conhecer em qualquer
+lugar.&lt;/p&gt;
+&lt;p&gt;Se você tem ou sabe de alguém que tenha um projeto Python com ligações com o
+Rio de Janeiro, crie uma issue ou envie um pull request para o nosso
+&lt;a href="https://github.com/stackcarioca/stackcarioca.github.io"&gt;repositório&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>python</category><category>rio de janeiro</category><category>rj</category><category>sobre</category><guid>https://stackcarioca.github.io/posts/sobre.html</guid><pubDate>Mon, 13 Jun 2016 20:48:33 GMT</pubDate></item><item><title>A Lista</title><link>https://stackcarioca.github.io/posts/lista.html</link><dc:creator>Eduardo Stalinho</dc:creator><description>&lt;div&gt;&lt;p&gt;Aqui estão os projetos python feitos por pessoas da comunidade Python do Rio de
+Janeiro. Venha contribuir! Os nomes dos desenvolvedores desses módulos estão nos
+repositórios dos projetos.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/nexedi/cloudooo"&gt;cloudoo&lt;/a&gt; Servidor de conversão de
+  documentos XML-RPC&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/felipecruz/coopy"&gt;coopy&lt;/a&gt; Biblioteca simples, transparente
+  e não intrusiva para persistência de objetos python.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/eduardostalinho/feedbloom"&gt;feedbloom&lt;/a&gt; Leitor de feeds
+  baseado em tarjas de canais de notícias.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/henriquebastos/fixofx"&gt;fixofx&lt;/a&gt; Utilizatário python para
+  arquivos de dados fincanceiros.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/henriquebastos/django-aggregate-if"&gt;django-aggregate-if&lt;/a&gt;
+  Agregações condicionais na queries Django.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/henriquebastos/django-test-without-migrations"&gt;django-test-without-migrations&lt;/a&gt;
+  Rode testes do django sem necessidade de rodar migrações.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/Onyo/jsonbender"&gt;jsonbender&lt;/a&gt; DSL embarcada para
+  transformação de dicionários.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/vandersonmota/model_mommy"&gt;model-mommy&lt;/a&gt; Factory de
+  objetos para django.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/flavioamieiro/nose-ipdb"&gt;nose-ipdb&lt;/a&gt; Rode testes com ponto
+  de paradas do ipdb ao invés de pdb.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/NAMD/pypln.web"&gt;pypln-web&lt;/a&gt; e
+  &lt;a href="https://github.com/NAMD/pypln.backend"&gt;pypln-backend&lt;/a&gt; Pipeline distribuída
+para processamento de linguagem natural.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/henriquebastos/python-decouple"&gt;python-decouple&lt;/a&gt;
+  Ferramenta para organizar configurações de projeto.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/turicas/rows"&gt;rows&lt;/a&gt; Uma interface comum e bonita para
+  dados tabulares em vários formatos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/cobrateam/splinter"&gt;splinter&lt;/a&gt; Ferramenta para testar
+  aplicações web com busca fácil por elementos, form actions e outras ações do
+browser.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/henriquebastos/sqlformatter"&gt;sqlformatter&lt;/a&gt; Formatação de
+  &lt;em&gt;statements&lt;/em&gt; SQL com cores.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/henriquebastos/tenjinserver"&gt;tenjinserver&lt;/a&gt; Ferramenta
+  para facilitar a criação de templates &lt;em&gt;tenjin&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/lucastx/tjrj-processos"&gt;tjrj-processos&lt;/a&gt; Ferramenta de
+  linha de comando para pegar dados de processos do Tribunal de Justiça do Rio
+de Janeiro.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid>https://stackcarioca.github.io/posts/lista.html</guid><pubDate>Sun, 12 Jun 2016 17:38:56 GMT</pubDate></item></channel></rss>
