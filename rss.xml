@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Stack Carioca</title><link>https://stackcarioca.github.io/</link><description>Lista de projetos Python com ligações com o Rio de Janeiro</description><atom:link href="https://stackcarioca.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>pt_br</language><lastBuildDate>Mon, 04 Jul 2016 23:16:48 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Sobre</title><link>https://stackcarioca.github.io/posts/sobre.html</link><dc:creator>Eduardo Stalinho</dc:creator><description>&lt;div&gt;&lt;p&gt;Stack carioca é um projeto para listar ferramentas, módulos e aplicações com
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Stack Carioca</title><link>https://stackcarioca.github.io/</link><description>Lista de projetos Python com ligações com o Rio de Janeiro</description><atom:link type="application/rss+xml" rel="self" href="https://stackcarioca.github.io/rss.xml"></atom:link><language>pt_br</language><lastBuildDate>Wed, 06 Jul 2016 17:16:04 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Sobre</title><link>https://stackcarioca.github.io/posts/sobre.html</link><dc:creator>Eduardo Stalinho</dc:creator><description>&lt;div&gt;&lt;p&gt;Stack carioca é um projeto para listar ferramentas, módulos e aplicações com
 código aberto feitas por pessoas da comunidade Python do Rio de Janeiro.&lt;/p&gt;
 &lt;p&gt;O objetivo desse projeto é levar mais pessoas a contribuírem com software livre
 podendo programar com pessoas que já conheça ou possa conhecer em qualquer
@@ -10,6 +10,11 @@ Rio de Janeiro, crie uma issue ou envie um pull request para o nosso
 Janeiro. Venha contribuir! Os nomes dos desenvolvedores desses módulos estão nos
 repositórios dos projetos.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/thaisviana/AlgPedia"&gt;AlgPedia&lt;/a&gt; Enciclopédia virtual
+  colaborativa de +algoritmos e programas com recursos de sistema de
+  recomendação e web semântica&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://github.com/nexedi/cloudooo"&gt;cloudoo&lt;/a&gt; Servidor de conversão de
   documentos XML-RPC&lt;/p&gt;
