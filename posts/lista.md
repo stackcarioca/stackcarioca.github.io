@@ -42,6 +42,8 @@ repositórios dos projetos.
 - [nose-ipdb](https://github.com/flavioamieiro/nose-ipdb) Rode testes com ponto
   de paradas do ipdb ao invés de pdb.
 
+- [pls](https://gitlab.com/codingrights/pls): lista de PL’s em discussão no Congresso que afetam a privacidade, a liberdade de expressão e o acesso ao meio digital.
+
 - [pypln-web](https://github.com/NAMD/pypln.web) e
   [pypln-backend](https://github.com/NAMD/pypln.backend) Pipeline distribuída
 para processamento de linguagem natural.
