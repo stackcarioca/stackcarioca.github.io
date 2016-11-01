@@ -12,7 +12,7 @@ Janeiro. Venha contribuir! Os nomes dos desenvolvedores desses módulos estão n
 repositórios dos projetos.
 
 - [AlgPedia](https://github.com/thaisviana/AlgPedia) Enciclopédia virtual
-  colaborativa de +algoritmos e programas com recursos de sistema de
+  colaborativa de algoritmos e programas com recursos de sistema de
   recomendação e web semântica
 
 - [cloudoo](https://github.com/nexedi/cloudooo) Servidor de conversão de
