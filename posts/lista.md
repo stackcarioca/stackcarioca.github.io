@@ -48,7 +48,7 @@ repositórios dos projetos.
 - [nose-ipdb](https://github.com/flavioamieiro/nose-ipdb) Rode testes com ponto
   de paradas do ipdb ao invés de pdb.
 
-- [pls](https://gitlab.com/codingrights/pls): lista de Projetos de Lei em
+- [PLs](https://gitlab.com/codingrights/pls): lista de Projetos de Lei em
   discussão no Congresso que afetam a privacidade, a liberdade de expressão e o
 acesso ao meio digital.
 
