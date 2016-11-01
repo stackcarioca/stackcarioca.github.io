@@ -36,6 +36,9 @@ repositórios dos projetos.
 - [django-test-without-migrations](https://github.com/henriquebastos/django-test-without-migrations)
   Rode testes do django sem necessidade de rodar migrações.
 
+- [ipython-unittest](https://github.com/JoaoFelipe/ipython-unittest)
+  Ferramentas para rodar testes unitários no ipython.
+
 - [jsonbender](https://github.com/Onyo/jsonbender) DSL embarcada para
   transformação de dicionários.
 
