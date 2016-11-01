@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stack Carioca</title><link>https://stackcarioca.github.io/</link><description>Lista de projetos Python com ligações com o Rio de Janeiro</description><atom:link type="application/rss+xml" href="https://stackcarioca.github.io/rss.xml" rel="self"></atom:link><language>pt_br</language><lastBuildDate>Fri, 15 Jul 2016 19:34:57 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Sobre</title><link>https://stackcarioca.github.io/posts/sobre.html</link><dc:creator>Eduardo Stalinho</dc:creator><description>&lt;div&gt;&lt;p&gt;Stack carioca é um projeto para listar ferramentas, módulos e aplicações com
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Stack Carioca</title><link>https://stackcarioca.github.io/</link><description>Lista de projetos Python com ligações com o Rio de Janeiro</description><atom:link href="https://stackcarioca.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>pt_br</language><lastBuildDate>Tue, 01 Nov 2016 12:58:10 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Sobre</title><link>https://stackcarioca.github.io/posts/sobre.html</link><dc:creator>Eduardo Stalinho</dc:creator><description>&lt;div&gt;&lt;p&gt;Stack carioca é um projeto para listar ferramentas, módulos e aplicações com
 código aberto feitas por pessoas da comunidade Python do Rio de Janeiro.&lt;/p&gt;
 &lt;p&gt;O objetivo desse projeto é levar mais pessoas a contribuírem com software livre
 podendo programar com pessoas que já conheça ou possa conhecer em qualquer
@@ -12,7 +12,7 @@ repositórios dos projetos.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://github.com/thaisviana/AlgPedia"&gt;AlgPedia&lt;/a&gt; Enciclopédia virtual
-  colaborativa de +algoritmos e programas com recursos de sistema de
+  colaborativa de algoritmos e programas com recursos de sistema de
   recomendação e web semântica&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -22,6 +22,10 @@ repositórios dos projetos.&lt;/p&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://github.com/felipecruz/coopy"&gt;coopy&lt;/a&gt; Biblioteca simples, transparente
   e não intrusiva para persistência de objetos python.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/flavioamieiro/dojotimer"&gt;dojotimer&lt;/a&gt;
+  Temporizador para &lt;em&gt;coding dojos&lt;/em&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://github.com/eduardostalinho/feedbloom"&gt;feedbloom&lt;/a&gt; Leitor de feeds
@@ -40,6 +44,10 @@ repositórios dos projetos.&lt;/p&gt;
   Rode testes do django sem necessidade de rodar migrações.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/JoaoFelipe/ipython-unittest"&gt;ipython-unittest&lt;/a&gt;
+  Ferramentas para rodar testes unitários no ipython.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href="https://github.com/Onyo/jsonbender"&gt;jsonbender&lt;/a&gt; DSL embarcada para
   transformação de dicionários.&lt;/p&gt;
 &lt;/li&gt;
@@ -52,7 +60,7 @@ repositórios dos projetos.&lt;/p&gt;
   de paradas do ipdb ao invés de pdb.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href="https://gitlab.com/codingrights/pls"&gt;pls&lt;/a&gt;: lista de Projetos de Lei em
+&lt;p&gt;&lt;a href="https://gitlab.com/codingrights/pls"&gt;PLs&lt;/a&gt;: lista de Projetos de Lei em
   discussão no Congresso que afetam a privacidade, a liberdade de expressão e o
 acesso ao meio digital.&lt;/p&gt;
 &lt;/li&gt;
@@ -60,6 +68,10 @@ acesso ao meio digital.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/NAMD/pypln.web"&gt;pypln-web&lt;/a&gt; e
   &lt;a href="https://github.com/NAMD/pypln.backend"&gt;pypln-backend&lt;/a&gt; Pipeline distribuída
 para processamento de linguagem natural.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/AlertaDengue/PySUS"&gt;PySUS&lt;/a&gt;
+  Ferramentas para trabalhar com dados de saúde pública do Brasil.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://github.com/henriquebastos/python-decouple"&gt;python-decouple&lt;/a&gt;

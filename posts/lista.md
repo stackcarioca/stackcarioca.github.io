@@ -12,7 +12,7 @@ Janeiro. Venha contribuir! Os nomes dos desenvolvedores desses módulos estão n
 repositórios dos projetos.
 
 - [AlgPedia](https://github.com/thaisviana/AlgPedia) Enciclopédia virtual
-  colaborativa de +algoritmos e programas com recursos de sistema de
+  colaborativa de algoritmos e programas com recursos de sistema de
   recomendação e web semântica
 
 - [cloudoo](https://github.com/nexedi/cloudooo) Servidor de conversão de
@@ -20,6 +20,9 @@ repositórios dos projetos.
 
 - [coopy](https://github.com/felipecruz/coopy) Biblioteca simples, transparente
   e não intrusiva para persistência de objetos python.
+
+- [dojotimer](https://github.com/flavioamieiro/dojotimer)
+  Temporizador para *coding dojos*.
 
 - [feedbloom](https://github.com/eduardostalinho/feedbloom) Leitor de feeds
   baseado em tarjas de canais de notícias.
@@ -33,6 +36,9 @@ repositórios dos projetos.
 - [django-test-without-migrations](https://github.com/henriquebastos/django-test-without-migrations)
   Rode testes do django sem necessidade de rodar migrações.
 
+- [ipython-unittest](https://github.com/JoaoFelipe/ipython-unittest)
+  Ferramentas para rodar testes unitários no ipython.
+
 - [jsonbender](https://github.com/Onyo/jsonbender) DSL embarcada para
   transformação de dicionários.
 
@@ -42,13 +48,16 @@ repositórios dos projetos.
 - [nose-ipdb](https://github.com/flavioamieiro/nose-ipdb) Rode testes com ponto
   de paradas do ipdb ao invés de pdb.
 
-- [pls](https://gitlab.com/codingrights/pls): lista de Projetos de Lei em
+- [PLs](https://gitlab.com/codingrights/pls): lista de Projetos de Lei em
   discussão no Congresso que afetam a privacidade, a liberdade de expressão e o
 acesso ao meio digital.
 
 - [pypln-web](https://github.com/NAMD/pypln.web) e
   [pypln-backend](https://github.com/NAMD/pypln.backend) Pipeline distribuída
 para processamento de linguagem natural.
+
+- [PySUS](https://github.com/AlertaDengue/PySUS)
+  Ferramentas para trabalhar com dados de saúde pública do Brasil.
 
 - [python-decouple](https://github.com/henriquebastos/python-decouple)
   Ferramenta para organizar configurações de projeto.
