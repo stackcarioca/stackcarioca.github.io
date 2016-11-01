@@ -21,6 +21,9 @@ repositórios dos projetos.
 - [coopy](https://github.com/felipecruz/coopy) Biblioteca simples, transparente
   e não intrusiva para persistência de objetos python.
 
+- [dojotimer](https://github.com/flavioamieiro/dojotimer)
+  Temporizador para *coding dojos*.
+
 - [feedbloom](https://github.com/eduardostalinho/feedbloom) Leitor de feeds
   baseado em tarjas de canais de notícias.
 
