@@ -56,6 +56,9 @@ acesso ao meio digital.
   [pypln-backend](https://github.com/NAMD/pypln.backend) Pipeline distribuída
 para processamento de linguagem natural.
 
+- [PySUS](https://github.com/AlertaDengue/PySUS)
+  Ferramentas para trabalhar com dados de saúde pública do Brasil.
+
 - [python-decouple](https://github.com/henriquebastos/python-decouple)
   Ferramenta para organizar configurações de projeto.
 
