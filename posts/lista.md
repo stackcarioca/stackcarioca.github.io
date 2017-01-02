@@ -76,5 +76,7 @@ browser.
   para facilitar a criação de templates *tenjin*
 
 - [tjrj-processos](https://github.com/lucastx/tjrj-processos) Ferramenta de
-  linha de comando para pegar dados de processos do Tribunal de Justiça do Rio
+  linha de comando para pegar dados de processos do Tribunal de Justiça do Rio de Janeiro.
+  
+- [DBaaS](https://github.com/globocom/database-as-a-service) Database as a service (DBaaS) é uma ferramenta de deploy e gerenciamento de instâncias de bancos de dados em infraestrutura de cloud.
 de Janeiro.
