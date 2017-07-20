@@ -4,4 +4,4 @@ __pycache__
 output
 *.swp
 *.pyc
-env/
+env/*
