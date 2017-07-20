@@ -21,6 +21,10 @@ repositórios dos projetos.
 - [coopy](https://github.com/felipecruz/coopy) Biblioteca simples, transparente
   e não intrusiva para persistência de objetos python.
 
+- [DBaaS](https://github.com/globocom/database-as-a-service) Database as a
+  service (DBaaS) é uma ferramenta de deploy e gerenciamento de instâncias de
+  bancos de dados em infraestrutura de cloud.
+
 - [dojotimer](https://github.com/flavioamieiro/dojotimer)
   Temporizador para *coding dojos*.
 
@@ -65,8 +69,6 @@ para processamento de linguagem natural.
 - [rows](https://github.com/turicas/rows) Uma interface comum e bonita para
   dados tabulares em vários formatos.
 
-- [thumbor](https://github.com/thumbor/thumbor) Serviço de thumbnails que
-  permite cortar, redimensionar e inverter imagens sob demanda.
 
 - [splinter](https://github.com/cobrateam/splinter) Ferramenta para testar
   aplicações web com busca fácil por elementos, form actions e outras ações do
@@ -78,8 +80,10 @@ browser.
 - [tenjinserver](https://github.com/henriquebastos/tenjinserver) Ferramenta
   para facilitar a criação de templates *tenjin*.
 
+- [thumbor](https://github.com/thumbor/thumbor) Serviço de thumbnails que
+  permite cortar, redimensionar e inverter imagens sob demanda.
+
 - [tjrj-processos](https://github.com/lucastx/tjrj-processos) Ferramenta de
-  linha de comando para pegar dados de processos do Tribunal de Justiça do Rio de Janeiro.
+  linha de comando para pegar dados de processos do Tribunal de Justiça do Rio
+  de Janeiro.
   
-- [DBaaS](https://github.com/globocom/database-as-a-service) Database as a service (DBaaS) é uma ferramenta de deploy e gerenciamento de instâncias de bancos de dados em infraestrutura de cloud.
-de Janeiro.
