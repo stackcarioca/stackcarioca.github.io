@@ -13,10 +13,10 @@ repositórios dos projetos.
 
 - [AlgPedia](https://github.com/thaisviana/AlgPedia) Enciclopédia virtual
   colaborativa de algoritmos e programas com recursos de sistema de
-  recomendação e web semântica
+  recomendação e web semântica.
 
 - [cloudoo](https://github.com/nexedi/cloudooo) Servidor de conversão de
-  documentos XML-RPC
+  documentos XML-RPC.
 
 - [coopy](https://github.com/felipecruz/coopy) Biblioteca simples, transparente
   e não intrusiva para persistência de objetos python.
@@ -73,7 +73,7 @@ browser.
   *statements* SQL com cores.
 
 - [tenjinserver](https://github.com/henriquebastos/tenjinserver) Ferramenta
-  para facilitar a criação de templates *tenjin*
+  para facilitar a criação de templates *tenjin*.
 
 - [tjrj-processos](https://github.com/lucastx/tjrj-processos) Ferramenta de
   linha de comando para pegar dados de processos do Tribunal de Justiça do Rio
