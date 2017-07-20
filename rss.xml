@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Stack Carioca</title><link>https://stackcarioca.github.io/</link><description>Lista de projetos Python com ligações com o Rio de Janeiro</description><atom:link href="https://stackcarioca.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>pt_br</language><lastBuildDate>Tue, 01 Nov 2016 12:58:10 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Sobre</title><link>https://stackcarioca.github.io/posts/sobre.html</link><dc:creator>Eduardo Stalinho</dc:creator><description>&lt;div&gt;&lt;p&gt;Stack carioca é um projeto para listar ferramentas, módulos e aplicações com
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Stack Carioca</title><link>https://stackcarioca.github.io/</link><description>Lista de projetos Python com ligações com o Rio de Janeiro</description><atom:link href="https://stackcarioca.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>pt_br</language><lastBuildDate>Thu, 20 Jul 2017 18:43:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Sobre</title><link>https://stackcarioca.github.io/posts/sobre.html</link><dc:creator>Eduardo Stalinho</dc:creator><description>&lt;div&gt;&lt;p&gt;Stack carioca é um projeto para listar ferramentas, módulos e aplicações com
 código aberto feitas por pessoas da comunidade Python do Rio de Janeiro.&lt;/p&gt;
 &lt;p&gt;O objetivo desse projeto é levar mais pessoas a contribuírem com software livre
 podendo programar com pessoas que já conheça ou possa conhecer em qualquer
@@ -13,15 +13,20 @@ repositórios dos projetos.&lt;/p&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://github.com/thaisviana/AlgPedia"&gt;AlgPedia&lt;/a&gt; Enciclopédia virtual
   colaborativa de algoritmos e programas com recursos de sistema de
-  recomendação e web semântica&lt;/p&gt;
+  recomendação e web semântica.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://github.com/nexedi/cloudooo"&gt;cloudoo&lt;/a&gt; Servidor de conversão de
-  documentos XML-RPC&lt;/p&gt;
+  documentos XML-RPC.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://github.com/felipecruz/coopy"&gt;coopy&lt;/a&gt; Biblioteca simples, transparente
   e não intrusiva para persistência de objetos python.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/globocom/database-as-a-service"&gt;DBaaS&lt;/a&gt; Database as a
+  service (DBaaS) é uma ferramenta de deploy e gerenciamento de instâncias de
+  bancos de dados em infraestrutura de cloud.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://github.com/flavioamieiro/dojotimer"&gt;dojotimer&lt;/a&gt;
@@ -92,11 +97,15 @@ browser.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://github.com/henriquebastos/tenjinserver"&gt;tenjinserver&lt;/a&gt; Ferramenta
-  para facilitar a criação de templates &lt;em&gt;tenjin&lt;/em&gt;&lt;/p&gt;
+  para facilitar a criação de templates &lt;em&gt;tenjin&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/thumbor/thumbor"&gt;thumbor&lt;/a&gt; Serviço de thumbnails que
+  permite cortar, redimensionar e inverter imagens sob demanda.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://github.com/lucastx/tjrj-processos"&gt;tjrj-processos&lt;/a&gt; Ferramenta de
   linha de comando para pegar dados de processos do Tribunal de Justiça do Rio
-de Janeiro.&lt;/p&gt;
+  de Janeiro.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;</description><guid>https://stackcarioca.github.io/posts/lista.html</guid><pubDate>Sun, 12 Jun 2016 17:38:56 GMT</pubDate></item></channel></rss>

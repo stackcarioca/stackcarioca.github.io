@@ -13,13 +13,17 @@ repositórios dos projetos.
 
 - [AlgPedia](https://github.com/thaisviana/AlgPedia) Enciclopédia virtual
   colaborativa de algoritmos e programas com recursos de sistema de
-  recomendação e web semântica
+  recomendação e web semântica.
 
 - [cloudoo](https://github.com/nexedi/cloudooo) Servidor de conversão de
-  documentos XML-RPC
+  documentos XML-RPC.
 
 - [coopy](https://github.com/felipecruz/coopy) Biblioteca simples, transparente
   e não intrusiva para persistência de objetos python.
+
+- [DBaaS](https://github.com/globocom/database-as-a-service) Database as a
+  service (DBaaS) é uma ferramenta de deploy e gerenciamento de instâncias de
+  bancos de dados em infraestrutura de cloud.
 
 - [dojotimer](https://github.com/flavioamieiro/dojotimer)
   Temporizador para *coding dojos*.
@@ -65,6 +69,7 @@ para processamento de linguagem natural.
 - [rows](https://github.com/turicas/rows) Uma interface comum e bonita para
   dados tabulares em vários formatos.
 
+
 - [splinter](https://github.com/cobrateam/splinter) Ferramenta para testar
   aplicações web com busca fácil por elementos, form actions e outras ações do
 browser.
@@ -73,8 +78,12 @@ browser.
   *statements* SQL com cores.
 
 - [tenjinserver](https://github.com/henriquebastos/tenjinserver) Ferramenta
-  para facilitar a criação de templates *tenjin*
+  para facilitar a criação de templates *tenjin*.
+
+- [thumbor](https://github.com/thumbor/thumbor) Serviço de thumbnails que
+  permite cortar, redimensionar e inverter imagens sob demanda.
 
 - [tjrj-processos](https://github.com/lucastx/tjrj-processos) Ferramenta de
   linha de comando para pegar dados de processos do Tribunal de Justiça do Rio
-de Janeiro.
+  de Janeiro.
+  
