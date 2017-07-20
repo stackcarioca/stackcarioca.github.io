@@ -1,10 +1,11 @@
-#!/home/eduardo/workspace/stackcarioca/env/bin/python
-# EASY-INSTALL-ENTRY-SCRIPT: 'doit==0.29.0','console_scripts','doit'
-__requires__ = 'doit==0.29.0'
+#!/home/eduardo/workspace/stackcarioca/env/bin/python2
+
+# -*- coding: utf-8 -*-
+import re
 import sys
-from pkg_resources import load_entry_point
+
+from doit.__main__ import main
 
 if __name__ == '__main__':
-    sys.exit(
-        load_entry_point('doit==0.29.0', 'console_scripts', 'doit')()
-    )
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())

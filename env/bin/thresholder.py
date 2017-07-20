@@ -1,4 +1,4 @@
-#!/home/eduardo/workspace/stackcarioca/env/bin/python
+#!/home/eduardo/workspace/stackcarioca/env/bin/python2
 #
 # The Python Imaging Library
 # $Id$
@@ -7,32 +7,34 @@
 # as a dynamically updated overlay
 #
 
-try:
-    from tkinter import *
-except ImportError:
-    from Tkinter import *
+import sys
+
+if sys.version_info[0] > 2:
+    import tkinter
+else:
+    import Tkinter as tkinter
 
 from PIL import Image, ImageTk
-import sys
 
 #
 # an image viewer
 
 
-class UI(Frame):
+class UI(tkinter.Frame):
     def __init__(self, master, im, value=128):
-        Frame.__init__(self, master)
+        tkinter.Frame.__init__(self, master)
 
         self.image = im
         self.value = value
 
-        self.canvas = Canvas(self, width=im.size[0], height=im.size[1])
+        self.canvas = tkinter.Canvas(self, width=im.size[0], height=im.size[1])
         self.backdrop = ImageTk.PhotoImage(im)
-        self.canvas.create_image(0, 0, image=self.backdrop, anchor=NW)
+        self.canvas.create_image(0, 0, image=self.backdrop, anchor=tkinter.NW)
         self.canvas.pack()
 
-        scale = Scale(self, orient=HORIZONTAL, from_=0, to=255,
-                      resolution=1, command=self.update_scale, length=256)
+        scale = tkinter.Scale(self, orient=tkinter.HORIZONTAL, from_=0, to=255,
+                              resolution=1, command=self.update_scale,
+                              length=256)
         scale.set(value)
         scale.bind("<ButtonRelease-1>", self.redraw)
         scale.pack()
@@ -42,7 +44,7 @@ class UI(Frame):
         # self.redraw()
 
     def update_scale(self, value):
-        self.value = eval(value)
+        self.value = float(value)
 
         self.redraw()
 
@@ -54,13 +56,17 @@ class UI(Frame):
 
         # update canvas
         self.canvas.delete("overlay")
-        self.canvas.create_image(0, 0, image=self.overlay, anchor=NW,
+        self.canvas.create_image(0, 0, image=self.overlay, anchor=tkinter.NW,
                                  tags="overlay")
 
 # --------------------------------------------------------------------
 # main
 
-root = Tk()
+if len(sys.argv) != 2:
+    print("Usage: thresholder file")
+    sys.exit(1)
+
+root = tkinter.Tk()
 
 im = Image.open(sys.argv[1])
 

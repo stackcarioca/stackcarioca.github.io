@@ -1,4 +1,4 @@
-#!/home/eduardo/workspace/stackcarioca/env/bin/python
+#!/home/eduardo/workspace/stackcarioca/env/bin/python2
 """PILdriver, an image-processing calculator using PIL.
 
 An instance of class PILDriver is essentially a software stack machine
@@ -70,7 +70,7 @@ class PILDriver(object):
 
     def push(self, item):
         "Push an argument onto the evaluation stack."
-        self.stack = [item] + self.stack
+        self.stack.insert(0, item)
 
     def top(self):
         "Return the top-of-stack element."
@@ -90,9 +90,7 @@ class PILDriver(object):
 
         Discard the top element on the stack.
         """
-        top = self.stack[0]
-        self.stack = self.stack[1:]
-        return top
+        return self.stack.pop(0)
 
     def do_dup(self):
         """usage: dup
@@ -103,7 +101,7 @@ class PILDriver(object):
             dup = self.stack[0].copy()
         else:
             dup = self.stack[0]
-        self.stack = [dup] + self.stack
+        self.push(dup)
 
     def do_swap(self):
         """usage: swap
@@ -210,9 +208,9 @@ class PILDriver(object):
         Process the top image with the given filter.
         """
         from PIL import ImageFilter
-        filter = eval("ImageFilter." + self.do_pop().upper())
+        imageFilter = getattr(ImageFilter, self.do_pop().upper())
         image = self.do_pop()
-        self.push(image.filter(filter))
+        self.push(image.filter(imageFilter))
 
     def do_getbbox(self):
         """usage: getbbox

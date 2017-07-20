@@ -1,4 +1,4 @@
-#!/home/eduardo/workspace/stackcarioca/env/bin/python
+#!/home/eduardo/workspace/stackcarioca/env/bin/python2
 
 # $Id: rst2odt_prepstyles.py 5839 2009-01-07 19:09:28Z dkuhlman $
 # Author: Dave Kuhlman <dkuhlman@rexx.com>

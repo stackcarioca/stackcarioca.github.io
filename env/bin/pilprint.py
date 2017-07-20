@@ -1,4 +1,4 @@
-#!/home/eduardo/workspace/stackcarioca/env/bin/python
+#!/home/eduardo/workspace/stackcarioca/env/bin/python2
 #
 # The Python Imaging Library.
 # $Id$
