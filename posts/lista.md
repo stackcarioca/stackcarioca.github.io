@@ -65,6 +65,9 @@ para processamento de linguagem natural.
 - [rows](https://github.com/turicas/rows) Uma interface comum e bonita para
   dados tabulares em vários formatos.
 
+- [thumbor](https://github.com/thumbor/thumbor) Serviço de thumbnails que
+  permite cortar, redimensionar e inverter imagens sob demanda.
+
 - [splinter](https://github.com/cobrateam/splinter) Ferramenta para testar
   aplicações web com busca fácil por elementos, form actions e outras ações do
 browser.
