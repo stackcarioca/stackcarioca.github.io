@@ -1,19 +1,19 @@
-# Stack carioca
+# Stack Carioca
 
-Stack carioca é um projeto para listar ferramentas, módulos e aplicações com
-código aberto feitas em python.
+O Stack Carioca é um projeto para listar ferramentas, módulos e aplicações com
+código aberto feitas em Python.
 
 O objetivo desse projeto é levar mais pessoas a contribuírem com software livre
-podendo programar com pessoas que já conheça ou possa conhecer em qualquer
+podendo programar com pessoas que já conheçam ou possam conhecer em qualquer
 lugar.
 
-Caso seja do Rio de Janeiro e tenha algum projeto python,
+Caso seja do Rio de Janeiro e tenha algum projeto escrito em Python,
 adicione uma issue ou faça um pull request nesse repositório.
 
 ## Adicionando um projeto na lista do stackcarioca
 
-Usamos o Static Site Generator **Nikola** para gerar o nosso site. Para
-adicionar um novo projeto à lista, modifique o arquivo `posts/lista.md`
+Usamos o Static Site Generator chamado **Nikola** para gerar o nosso site. Para
+adicionar um novo projeto à lista, basta modificar o arquivo `posts/lista.md`
 atentando para a ordem alfabética dos projetos e envie seu pull request.
 
 Exemplo:
