@@ -87,3 +87,15 @@ browser.
   linha de comando para pegar dados de processos do Tribunal de Justiça do Rio
   de Janeiro.
   
+- [cornpy](https://github.com/maurobio/cornpy) Biblioteca para rodar os clássicos
+  programas em FORTRAN do pacote Cornell Ecology Program (DECORANA, TWINSPAN)
+  através do Python.
+  
+- [ecolog](https://github.com/maurobio/ecolog) Sistema gerenciador de bancos de
+  dados para levantamentos ecológicos de campo. 
+  
+- [especies](https://github.com/maurobio/especies) Ferramenta de busca taxonômica 
+  e *mashup* de bancos de dados de biodiversidade. 
+
+- [feronia](https://github.com/maurobio/feronia) Ferramenta para construção automática
+  de bancos de dados de biodiversidade a partir de fontes online.
