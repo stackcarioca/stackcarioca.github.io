@@ -46,7 +46,7 @@ repositórios dos projetos.
 - [jsonbender](https://github.com/Onyo/jsonbender) DSL embarcada para
   transformação de dicionários.
 
-- [model-mommy](https://github.com/vandersonmota/model_mommy) Factory de
+- [model-mommy](https://github.com/berinhard/model_mommy) Factory de
   objetos para django.
 
 - [nose-ipdb](https://github.com/flavioamieiro/nose-ipdb) Rode testes com ponto
@@ -55,6 +55,9 @@ repositórios dos projetos.
 - [PLs](https://gitlab.com/codingrights/pls): lista de Projetos de Lei em
   discussão no Congresso que afetam a privacidade, a liberdade de expressão e o
 acesso ao meio digital.
+
+- [pyp5js](https://gitlab.com/berinhard/pyp5js): ferramenta para integrar código
+  Python no navegador integrado com a biblioteca [p5.js](https://p5js.org/).
 
 - [pypln-web](https://github.com/NAMD/pypln.web) e
   [pypln-backend](https://github.com/NAMD/pypln.backend) Pipeline distribuída
